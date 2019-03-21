@@ -103,7 +103,11 @@ Pass
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**UNUM** (July '18 - September '18)    
+*Broker Service Specialist*  
+**John Lewis** ( October '15 - July '18)   
+*Stock Management*  
+**Soldiers Return Public House** (February '14 - February '15)
+*Barman*  
+
+## Hobbies and Interests
