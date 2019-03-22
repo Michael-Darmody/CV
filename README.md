@@ -114,3 +114,8 @@ This roles responsibility included helping the branch maximise sales by ensuring
 My role at the Soldiers return Public House included serving customers food and drinks from behind the bar, supporting the bar manager with various everyday functions and providing good customer service at all times.
 
 ## Hobbies and Interests
+I am a very competitive person who is committed to an active, healthy lifestyle.
+**Gym** : The gym has always been a big part of my life since my college days and can be emphasised by my qualification in fitness instructing, I am a big advocate of a healthy mind and body.
+**Mixed Martial Arts** : Enjoy recreational fighting which ties in with fitness and helps me remain active and disciplined.
+**Golf** : Previously a member of Basingstoke Golf Club and captained the Junior team, I find golf very relaxing and on occasion it sort of acts as a form of meditation.
+**Socialising** : I enjoy going out with friends and family during the weekends and having fun.
