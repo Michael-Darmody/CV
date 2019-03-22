@@ -104,10 +104,13 @@ Pass
 ## Experience
 
 **UNUM** (July '18 - September '18)    
-*Broker Service Specialist*  
+*Broker Service Specialist*
+My role within Unum as a Broker Services Specialist incorporates a wide variety of tasks and services. It can be viewed most succinctly as; a role that supports the activities of varying regional broker service teams, ensuring all aspects of policy administration are completed to a high-quality standard and within agreed timescales.
 **John Lewis** ( October '15 - July '18)   
-*Stock Management*  
+*Stock Management*
+This roles responsibility included helping the branch maximise sales by ensuring stock is available for the selling floor at all times. The manipulation of stock numbers and classes using various programs. Providing informed and courteous service to customers when working on the shop floor.
 **Soldiers Return Public House** (February '14 - February '15)
 *Barman*  
+My role at the Soldiers return Public House included serving customers food and drinks from behind the bar, supporting the bar manager with various everyday functions and providing good customer service at all times.
 
 ## Hobbies and Interests
