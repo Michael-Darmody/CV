@@ -4,6 +4,7 @@ My name is Michael, I'm a graduate from one of Europe's leading software develop
 
 Skilled in Test Driven Development, SOLID principles, Agile methodologies, Object-orientated design and Self Directed Learning emphasising a growth mindset and encourages others to do the same. From being a Barman to being involved in the fitnesses industry, I find my journey through various spectrums of work finally resting on something I'm truly passionate about. Since technology is becoming ever more important and digital innovation within companies is becoming more prominent, I have been looking for the right opportunity to develop a long-term career in a technological field.
 
+
 ## Skills
 
 #### Excellent communicator
@@ -30,16 +31,13 @@ During my time at Makers I participated in two group projects, one whereby we cr
 
 I'm always comfortable finding my place within a team, however I often have a knack of offering leadership and direction when the situation arises. During my time at John Lewis I took it upon myself to organise 20 new employees into groups and set them tasks along side senior management during store opening, this help established good, efficient processes early on within the stock management team as well as helping new individuals bond together. I can also demonstrate leadership qualities outside of the work place, being captain of the Basingstoke golf team required my leadership qualities and support during games as well as conducting myself well during pre and post match presentations.
 
-#### Additional Skills
-
-- Level 3 certificate in Fitness instructing - Gym (ActiveIQ)
-- Level 2 award in Nutrition for Physical activity (ActiveIQ)
 
 ## Education
 
 #### Makers Academy (March '19 - June '19)
 
-A 16-week intensive development bootcamp, focusing on :
+I am a graduate from one of Europe's leading software development bootcamps.
+Makers provide a fully immersive and very intense 16 week programming course focused on many modern day core coding techniques & principles that produce desirable programmers. Some of these include:  
 
 - Agile methodologies
 - Object-oriented design
@@ -48,6 +46,9 @@ A 16-week intensive development bootcamp, focusing on :
 - XP values
 - OOP, TDD, MVC, DDD
 - Ruby, Rails, JavaScript
+
+A large emphasis is placed on self-directed learning and the growth mindset to produce software engineers who are able to adapt to new languages, concepts & environments, and continue to grow throughout their career.
+
 
 #### Queen Mary's College, Basingstoke (September '12 - June '14)
 
@@ -62,30 +63,24 @@ D
 #### Aldworth Science College, Basingstoke (September '07 - June '12)
 
 GCSE Levels :
+- 11 GCSE's, 1 A*, 1 Distinction*, 4 A's, 4 B's, 1 C
+A* & Distinction* include:
 - Chemistry
-A*
+- Business studies
+A's include:
 - Biology
-A
 - Physics
-A
 - Additional Sciences
-A
+B's include:
 - Information Communication Technology
-Merit
-- English Literature
-A
-- English Language
-B
 - Mathematics
-B
-- Geography
-B
-- BTEC Business Level 2
-Distinction*
-- BTEC Sport Level 2
-Pass
-- Elected Deputy head boy for Aldworth Science College 2012
-- Obtained the 'Outstanding Achievement in Physics award' 2012
+
+#### Additional Skills
+
+- Level 3 certificate in Fitness instructing - Gym (ActiveIQ)
+- Level 2 award in Nutrition for Physical activity (ActiveIQ)
+- Obtained the 'Outstanding Achievement in Physics award Aldworth Science College' 2012
+
 
 ## Experience
 
@@ -103,7 +98,7 @@ My role at the Soldiers return Public House included serving customers food and 
 
 ## Hobbies and Interests
 I am a very competitive person who is committed to an active, healthy lifestyle.
-- **Gym** : The gym has always been a big part of my life since my college days and can be emphasised by my qualification in fitness instructing, I am a big advocate of a healthy mind and body.
+- **Gym** : The gym has always been a big part of my life since my college days, I am committed to a disciplined regime at least 5 times a week, my passion for the sport can be emphasised by my qualification in fitness instructing, I am a big advocate of a healthy mind and body.
 - **Mixed Martial Arts** : Enjoy recreational fighting which ties in with fitness and helps me remain active and disciplined.
-- **Golf** : Previously a member of Basingstoke Golf Club and captained the Junior team, I find golf very relaxing and on occasion it sort of acts as a form of meditation.
-- **Socialising** : I enjoy going out with friends and family during the weekends and having fun.
+- **Golf** : Previously a member of Basingstoke Golf Club and captained the Junior team, I find golf can be relaxing and on occasion, acts as a form of meditation.
+- **Socialising** : I enjoy going out with friends and family during the weekends and having fun!
