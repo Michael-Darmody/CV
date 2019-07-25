@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[Background ](##background) | [Skills ](##skills) |  [Projects ](##projects) | [Education ](##education) | [Experience ](##experience) | [Hobbies and Interests](##hobbiesandinterests)
+[Background](#background) | [Skills](#skills) |  [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
 
 </div>
 
